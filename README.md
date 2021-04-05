@@ -1,2 +1,2 @@
-# bookstore_oauth-api
+# boostore_oauth-api
 OAuth API
